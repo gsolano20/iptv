@@ -130,14 +130,112 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ GhhN8mW.png",ESPN (360p)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ GhhN8mW.png",ESPN (720p)
-https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com /CTgGetu.png",ESPN 2 (360p)
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com /CTgGetu.png",ESPN 2 (720p)
-http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:0 tvg-name="ESPN tavo" tvg-language="English" tvg-country="US" tvg-id="ESPN tavo" tvg-logo="http://pacificrecords.com/Pacific_Records/prwp/wp -content/uploads/2015/06/espn-logo.jpg" group-title="Top10",ESPN (Top10) (EE.UU.) (inglés)
-http://167.114.102.27/live/BXd9f9a51RCcTTs3GK2tIg/1455736215/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B% 20WOW64)%20AppleWebKit%2F537.36%20(KHTML %2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TOON TUBERS
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+
+
+#EXTINF:-1  group-title="Bics Extra", ESPN Deportes
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
+
+#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", Fox Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+
+
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
+*****#EXTINF:-1  group-title="Bics Extra", ESPN 
+*****http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+#EXTINF:-1  group-title="Bics Extra", ESPN 2
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
+#EXTINF:-1  group-title="Bics Extra", ESPN 3
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
+#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1  group-title="Bics Extra", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Bics Extra MX", CARTOONITO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1 group-title="Bics Extra MX", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 group-title="Bics Extra MX", DK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
+#EXTINF:-1 group-title="Bics Extra MX", NICK JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+#EXTINF:-1 group-title="Bics Extra MX", NICK MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
+#EXTINF:-1 group-title="Bics Extra MX", TEEN NICK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 group-title="Bics Extra MX", BABY TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+
+
+
+
+#EXTINF:-1 group-title="Bics Extra MX", ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
+#EXTINF:-1 group-title="Bics Extra MX", ESPN 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+#EXTINF:-1 group-title="Bics Extra MX", ESPN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
+#EXTINF:-1 group-title="Bics Extra MX", FOX SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
+#EXTINF:-1 group-title="Bics Extra MX", FOX SPORTS 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
+
+
+
+#EXTINF:-1 group-title="Bics Extra USA", Comedy Central HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+
+
+
+#EXTINF:-1 group-title="Bics Extra USA", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 group-title="Bics Extra USA", DISNEY JUNIOR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 group-title="Bics Extra USA", DISNEY XD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 group-title="Bics Extra USA", NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+#EXTINF:-1 group-title="Bics Extra USA", Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 group-title="Bics Extra USA", UNIVERSAL KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF:-1 group-title="Bics Extra USA", TRAVEL CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:-1 group-title="Bics Extra USA", MOTOR TREND
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF:-1 group-title="Bics Extra USA", VICE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/670
+#EXTINF:-1 group-title="Bics Extra USA", MTV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+#EXTINF:-1 group-title="Bics Extra USA", MTV CLASSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:-1 group-title="Bics Extra USA", MTV U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF:-1 group-title="Bics Extra USA", MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
