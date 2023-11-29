@@ -130,3 +130,11 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ GhhN8mW.png",ESPN (360p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ GhhN8mW.png",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com /CTgGetu.png",ESPN 2 (360p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com /CTgGetu.png",ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
