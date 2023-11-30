@@ -48,104 +48,76 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1, NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1, NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1, Discovery Channel www.achoAPPS.com
+http://80.80.160.168/live/8/live.m3u8
 
 
 
-#EXTINF:-1  group-title="Bics Extra", ESPN Deportes
-http://sysadminhost.net:8080/F17425/8ffdb770/6446
-
-#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-
-#EXTINF:-1  group-title="Bics Extra", Fox Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+#EXTINF:-1, Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1, Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
-*****#EXTINF:-1  group-title="Bics Extra", ESPN 
-*****http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
-#EXTINF:-1  group-title="Bics Extra", ESPN 2
-http://sysadminhost.net:8080/F17425/8ffdb770/3031
-#EXTINF:-1  group-title="Bics Extra", ESPN 3
-http://sysadminhost.net:8080/F17425/8ffdb770/3032
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
-#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
-https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:-1  group-title="Bics Extra", Golazo Network 
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:-1, ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1, ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1, SPORT 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, GARAGE TV www.achoAPPS.com AUTOS PLANETFOOLS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Bics Extra MX", CARTOONITO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
-#EXTINF:-1 group-title="Bics Extra MX", CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:-1 group-title="Bics Extra MX", DK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
-#EXTINF:-1 group-title="Bics Extra MX", DISNEY CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
-#EXTINF:-1 group-title="Bics Extra MX", DISNEY JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
-#EXTINF:-1 group-title="Bics Extra MX", NICK JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
-#EXTINF:-1 group-title="Bics Extra MX", NICK MUSIC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
-#EXTINF:-1 group-title="Bics Extra MX", TEEN NICK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
-#EXTINF:-1 group-title="Bics Extra MX", BABY TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTE",ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="DEPORTE",ESPN 2
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="DEPORTE",ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="DEPORTE",ESPN 4
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="DEPORTE",ESPN EXTRA
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTE",Fox Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTE",Fox Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="DEPORTE",Fox Sports 3
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",TNT Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="DEPORTE",Fox Sports Premium
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:0 tvg-id="F1.ar" group-title="DEPORTE",F1
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.ar" group-title="DEPORTE",DISCOVERY TURBO
 
 
 
-
-#EXTINF:-1 group-title="Bics Extra MX", ESPN 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 group-title="Bics Extra MX", ESPN 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
-#EXTINF:-1 group-title="Bics Extra MX", ESPN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:-1 group-title="Bics Extra MX", FOX SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
-#EXTINF:-1 group-title="Bics Extra MX", FOX SPORTS 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
-
-
-
-#EXTINF:-1 group-title="Bics Extra USA", Comedy Central HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
-
-
-
-#EXTINF:-1 group-title="Bics Extra USA", DISNEY CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
-#EXTINF:-1 group-title="Bics Extra USA", DISNEY JUNIOR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-#EXTINF:-1 group-title="Bics Extra USA", DISNEY XD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-#EXTINF:-1 group-title="Bics Extra USA", NATGEO KIDS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
-#EXTINF:-1 group-title="Bics Extra USA", Nickelodeon HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:-1 group-title="Bics Extra USA", UNIVERSAL KIDS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
-#EXTINF:-1 group-title="Bics Extra USA", TRAVEL CHANNEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
-#EXTINF:-1 group-title="Bics Extra USA", MOTOR TREND
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
-#EXTINF:-1 group-title="Bics Extra USA", VICE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/670
-#EXTINF:-1 group-title="Bics Extra USA", MTV 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
-#EXTINF:-1 group-title="Bics Extra USA", MTV CLASSIC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
-#EXTINF:-1 group-title="Bics Extra USA", MTV U
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
-#EXTINF:-1 group-title="Bics Extra USA", MTV LIVE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:0 tvg-id="ext" group-title="CURIOSIDAD",*Realidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&de viceDNT=%7BTARGETOPT%7D&ID del dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="CURIOSIDAD",Nat Geo
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.ar" group-title="CURIOSIDAD",Discovery Channel
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CURIOSIDAD",DISCOVERY THEATRE
+http://168.232.168.242:8000/play/a063/index.m3u8
+#EXTINF:0 tvg-id="TheHistoryChannel.ar" group-title="CURIOSIDAD",Canal Historia
+http://168.232.168.242:8000/play/a026/index.m3u8
+#EXTINF:0 tvg-id="H2.ar" group-title="CURIOSIDAD",H2
+http://168.232.168.242:8000/play/a033/index.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CURIOSIDAD",Descubrimiento H&H
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.ar" group-title="CURIOSIDAD",Animal Planet
+http://168.232.168.242:8000/play/a0ew/index.m3u8
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="CURIOSIDAD",Nat Geo Wild
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
